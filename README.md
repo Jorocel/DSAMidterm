@@ -44,8 +44,8 @@ Follow these steps to set up a React JS project:
    - To view your application in the browser, start the local development server with the following command:  
    ```bash
    npm start
-    ```
-    - This command will open your app in the default web browser at http://localhost:3000.
+   ```
+   - This command will open your app in the default web browser at http://localhost:3000.
 
 5. **Open the Project in a Code Editor**  
    - Open the project folder in your preferred code editor, such as Visual Studio Code, to begin working on your React application.  
